@@ -10,7 +10,7 @@ Load the image into editor, make all your editions. Add an text in your post, if
 ![Mobile version](https://www.redcrested.net/components/ImageEditor/imageeditor-mobile.gif)
 
 
-On Red Crested OSSN [Sandbox](https://www.redcrested.net/ossn) it's possible to see the component in action. Use **demouser** as login and **123456789** as password.
+On [Red Crested OSSN Sandbox](https://www.redcrested.net/ossn) it's possible to see the component in action. Use **demouser** as login and **123456789** as password.
 
 ## Features
  
